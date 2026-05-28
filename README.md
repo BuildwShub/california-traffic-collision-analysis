@@ -30,21 +30,6 @@ This comprehensive analysis processes **980,364 California traffic collisions** 
 ║  Safest Weather            │ Clear (88%)    │ Rain = 4x severity  ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
-## 📊 Key Metrics at a Glance
-
-| Metric | Value | Impact |
-|--------|-------|--------|
-| **Total Collisions** | 980,364 | 20 years of data (2001-2020) |
-| **Total Injuries** | 375,397 | 38.3% of collisions involve injury |
-| **Severe Injuries** | 22,756 | 2.4% - Critical intervention focus |
-| **Peak Year** | 2002 | 54,957 collisions (benchmark) |
-| **Recent Year (2020)** | 36,588 | 33% reduction from peak |
-| **Most Dangerous Day** | Friday | 155K collisions (40% above Sunday) |
-| **Peak Hour** | 5:00 PM | 71K collisions (4.5× minimum) |
-| **Nighttime Severity** | 4× worse | Compared to daylight conditions |
-| **Rain Impact** | 4× severity | Despite lower frequency |
-| **Geographic Concentration** | 40% | Top 5 counties account for majority |
----
 
 ## 📈 Correlation Analysis: Understanding Data Relationships
 
@@ -432,7 +417,7 @@ Weather Impact Analysis:
 
 **Big Data Processing**
 ```
-Apache Spark 3.x • PySpark • Spark SQL • Distributed Computing
+• PySpark • Spark SQL • Distributed Computing
 ```
 
 **Data Analysis & Visualization**
@@ -501,7 +486,22 @@ Python 3.9+ • Jupyter Notebooks • Colab Environment • Google Drive
    → Identify accountability gaps
    → Enable continuous improvement cycles
 ```
+## 🎯 Actionable Recommendations
 
+### 1. Enhanced Enforcement (Est. 15% injury reduction)
+Deploy police during Friday 3-6 PM in top 5 counties. Increase presence during compound risk periods (rain + evening + high traffic).
+
+### 2. Infrastructure Investment (Est. 30% severity reduction)
+Street light upgrades in dark collision zones. Enhanced signage/lane markings for low-visibility areas. Cost-benefit favors top 5 counties.
+
+### 3. Speed Management in Adverse Weather (Est. 25% severity reduction)
+Automated enforcement when rain detected (4× severity trigger). Variable limits based on real-time conditions. Driver alerts for dangerous combinations.
+
+### 4. Age-Specific Programs (Est. 10-15% reduction)
+Young driver education focusing on Friday evening risks. Senior driver certifications. Targeted public awareness by demographic.
+
+### 5. Predictive Deployment (Est. 15-20% response time improvement)
+AI-driven resource positioning at predicted hotspots. Real-time density forecasting. Seasonal staffing adjustments from 20-year trends.
 ---
 
 ## 💼 For Hiring Managers
