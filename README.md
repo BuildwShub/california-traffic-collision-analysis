@@ -30,7 +30,20 @@ This comprehensive analysis processes **980,364 California traffic collisions** 
 ║  Safest Weather            │ Clear (88%)    │ Rain = 4x severity  ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
+## 📊 Key Metrics at a Glance
 
+| Metric | Value | Impact |
+|--------|-------|--------|
+| **Total Collisions** | 980,364 | 20 years of data (2001-2020) |
+| **Total Injuries** | 375,397 | 38.3% of collisions involve injury |
+| **Severe Injuries** | 22,756 | 2.4% - Critical intervention focus |
+| **Peak Year** | 2002 | 54,957 collisions (benchmark) |
+| **Recent Year (2020)** | 36,588 | 33% reduction from peak |
+| **Most Dangerous Day** | Friday | 155K collisions (40% above Sunday) |
+| **Peak Hour** | 5:00 PM | 71K collisions (4.5× minimum) |
+| **Nighttime Severity** | 4× worse | Compared to daylight conditions |
+| **Rain Impact** | 4× severity | Despite lower frequency |
+| **Geographic Concentration** | 40% | Top 5 counties account for majority |
 ---
 
 ## 📈 Correlation Analysis: Understanding Data Relationships
@@ -408,7 +421,7 @@ Weather Impact Analysis:
 ┌─────────────────────────────────────────────────────────────┐
 │                   ACTIONABLE INSIGHTS                        │
 ├─────────────────────────────────────────────────────────────┤
-│  📊 23 Professional Visualizations                          │
+│  📊 21 Professional Visualizations                          │
 │  🎯 Policy Recommendations                                 │
 │  🔮 Predictive Insights for Prevention                     │
 │  💼 Executive Dashboards                                   │
@@ -491,17 +504,29 @@ Python 3.9+ • Jupyter Notebooks • Colab Environment • Google Drive
 
 ---
 
-## 📊 Visualizations Summary
+## 💼 For Hiring Managers
 
-This analysis includes **23 professional visualizations**:
+This project shows:
 
-| # | Chart Type | Focus | File |
-|---|-----------|-------|------|
-| 1 | Heatmap | Correlation Matrix | `01_correlation_matrix_heatmap.png` |
-| 2 | Bar Chart | Collision Severity | `02_collision_severity_distribution.png` |
-| 3 | Pie & Donut | Severity %s | `03_collision_severity_pie_donut.png` |
-| 4 | Bar Chart | Weather Impact | `04_weather_conditions_collisions.png` |
-| 5 | Histogram | Victim Age | `05_victim_age_distribution.png` |
-| 6 | Box Plot | Age × Severity | `06_victim_age_boxplot_severity.png` |
-| 7 | Violin Plot | Age × Severity | `07_victim_age_violin_severity.png` |
-| 8 | Bar Chart | Severity v
+✅ **Analytics Excellence** - Processed 980K records, discovered actionable insights  
+✅ **Statistical Rigor** - Correlation analysis, distribution fitting, significance testing  
+✅ **Business Acumen** - Connected data to $22.7B opportunity, quantified ROI  
+✅ **Communication** - 21 charts + clear written recommendations for non-technical stakeholders  
+✅ **Problem-Solving** - Identified counterintuitive insights (clear weather ≠ safe)  
+✅ **Domain Knowledge** - Understands traffic safety, public health, urban planning  
+
+**Bottom line:** Can own end-to-end analytics projects and deliver insights that impact public policy.
+
+---
+
+## 📬 Connect
+
+- **GitHub:** [github.com/BuildwShub](https://github.com/BuildwShub)
+- **LinkedIn:** [linkedin.com/in/buildwshub](https://linkedin.com/in/buildwshub)
+- **Email:** shubbhamji77@gmail.com
+
+---
+
+⭐ **If you found these insights valuable, consider starring the repo!**
+
+**Made with ❤️ by BuildwShub | Data Analyst | 2026**
