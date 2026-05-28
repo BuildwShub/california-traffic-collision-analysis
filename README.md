@@ -1,6 +1,6 @@
 # 🚗 California Traffic Collision Data Analysis using PySpark
 
-**Enterprise-Grade Distributed Data Pipeline for Large-Scale Traffic Safety Analytics**
+**Enterprise-Grade Data Analysis using PySpark for Large-Scale Traffic Safety Analytics**
 
 ![Status](https://img.shields.io/badge/Status-Production--Ready-success?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.9+-3776ab?style=for-the-badge&logo=python&logoColor=white)
